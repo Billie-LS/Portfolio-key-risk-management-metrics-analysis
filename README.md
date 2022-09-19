@@ -1,10 +1,7 @@
-# Portfolio-key-risk-management-metrics-analysis
-example analysis of key metrics: daily returns, standard deviations, Sharpe ratios, and betas
-
-
 # **Columbia University Engineering, New York FinTech BootCamp** 
 # **August 2022 Cohort**
-## *Module 4, Challenge - retrospective identification and analysis of Bitcoin arbitrage opportunities within a three month time period*
+## *Module 4, Challenge - Portfolio key risk management metrics & analysis*
+### example analysis of key metrics: daily returns, standard deviations, Sharpe ratios, and betas
 
 This is a financial analysis application. This analysis utilizes a web-based interactive development environment (IDE) interface to run a data processing application which retrospectively examines the arbitrage trade opportunities for Bitcoin using bitstamp and coinbase exchanges over a three month period in 2018.  
 
