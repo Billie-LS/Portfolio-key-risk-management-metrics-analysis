@@ -99,8 +99,8 @@ The ratio between the average annual return and the annualized standard deviatio
 
      
    SUPPLEMENTAL ANALYSIS was then introduced by the author.
-   comparitive analysis was conducted between Sharpe ratios based on risk free return rates (hurdle rate) being zero or 3% (0.03)
-   These comparative Sharpe ratios for the four funds and for the S&P 500 were then visualized in a bar chart
+   The author then introduced a 3% (0.03) risk-free return rate.  Sharpe ratios under these conditions were plotted,
+   facilitating comparitive analysis by visualization of the new/adjusted bar chart vs the previous bar chart
    
 ![all_funds_sharpe](images/sharpe2.png)
 ### Sharpe Ratio
@@ -152,11 +152,16 @@ This project leverages Jupyter Lab v3.4.4 and python v3.7 with the following pac
 
 * [read_csv](https://pandas.pydata.org/docs/reference/api/pandas.read_csv.html?highlight=read_csv#) - From 'pandas', read a comma-separated values (csv) file into DataFrame
 
+* [concat](https://pandas.pydata.org/docs/reference/api/pandas.concat.html) - From 'pandas', concatenate pandas objects along a particular axis, allows optional set logic along the other axes.
+
+* [numpy](https://numpy.org/doc/stable/) - Software library, NumPy is the fundamental package for scientific computing in Python, provides vast functionality.
+
 For additional and / or supplemental processing and visulaization this project also makes use of the following packages:
 
-* [DataFrame](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html?highlight=dataframe#pandas.DataFrame) - From 'pandas', to construct a dataframe, i.e. a two-dimensional, size-mutable, potentially heterogeneous tabular data
+* [matplotlib.pyplot](https://matplotlib.org/stable/tutorials/introductory/pyplot.html) - Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python; matplotlib.pyplot is a collection of functions that make matplotlib work like MATLAB.
 
-* [MinMaxScaler](https://pandas.pydata.org/docs/) - from sklearn, preprocessing package provides several common utility functions and transformer classes to change raw feature vectors into a representation that is more suitable for the downstream estimators, transforms features by scaling each feature to a given range.
+* [seaborn](https://seaborn.pydata.org/tutorial/introduction) - Software library for making statistical graphics in Python. It builds on top of matplotlib and integrates closely with pandas data structures.
+
 
 
 ### **Hardware used for development**
@@ -189,7 +194,7 @@ git version 2.37.2
  In the terminal, navigate to directory where you want to install this application from the repository and enter the following command
 
 ```python
-git clone git@github.com:Billie-LS/FinTech_Homeworks.git
+git clone git@github.com:Billie-LS/Portfolio-key-risk-management-metrics-analysis.git
 ```
 
 ---
@@ -213,10 +218,10 @@ From terminal, the installed application is run through jupyter lab web-based in
 Version control can be reviewed at:
 
 ```python
-https://github.com/Billie-LS/FinTech_Homeworks/tree/homework3
+https://github.com/Billie-LS/Portfolio-key-risk-management-metrics-analysis
 ```
 
-[repository](https://github.com/Billie-LS/FinTech_Homeworks/tree/homework3)
+[repository](https://github.com/Billie-LS/Portfolio-key-risk-management-metrics-analysis)
 
 
 ---
