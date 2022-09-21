@@ -210,8 +210,6 @@ From terminal, the installed application is run through jupyter lab web-based in
 ## **Project requirements**
 ### see starter code
 
-![requirements](images/requirements.png)
-
 ---
 ## **Version control**
 

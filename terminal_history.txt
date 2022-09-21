@@ -1,0 +1,443 @@
+ 3364  git commit -m 'start challenge 4, v0.1'
+ 3365  git push
+ 3366  conda deactivate
+ 3367  conda activate jupyterlab_dev
+ 3368  code .
+ 3369  conda deactivate
+ 3370  conda activate jupyterlab_dev
+ 3371  jupyter lab
+ 3372  git status
+ 3373  code .
+ 3374  conda deactivate
+ 3375  conda activate jupyterlab_dev
+ 3376  jupyter lab
+ 3377  git status
+ 3378  git add .
+ 3379  git add *
+ 3380  git commit -m 'initial progress challenge 4'
+ 3381  git push
+ 3382  conda deactivate
+ 3383  conda activate jupyterlab_dev
+ 3384  jupyter lab
+ 3385  cd ~
+ 3386  cd Desktop
+ 3387  git clone git@github.com:Billie-LS/Portfolio-key-risk-management-metrics-analysis.git
+ 3388  git status
+ 3389  git add .
+ 3390  git add *
+ 3391  git commit -m 'starter code, challenge 4'
+ 3392  git push
+ 3393  code .
+ 3394  git status
+ 3395  git add .
+ 3396  git add *
+ 3397  git commit -m 'gitignore'
+ 3398  git push
+ 3399  conda activate jupyterlab_dev
+ 3400  jupyter lab
+ 3401  conda deactivate
+ 3402  git status
+ 3403  git add
+ 3404  git add .
+ 3405  git add *
+ 3406  git commit -m 'initialize starter code'
+ 3407  git push
+ 3408  code .
+ 3409  conda activate jupyterlab_dev
+ 3410  jupyter lab
+ 3411  git status
+ 3412  git add .
+ 3413  git add *
+ 3414  git commit -m 'starter code rserve'
+ 3415  git push
+ 3416  conda activate jupyterlab_dev
+ 3417  jupyter lab
+ 3418  code .
+ 3419  git status
+ 3420  git add .
+ 3421  git add *
+ 3422  git commit -m 'draft template ReadMe'
+ 3423  git push
+ 3424  conda deactivate
+ 3425  conda activate jupyterlab_dev
+ 3426  jupyter lab
+ 3427  conda deactivate
+ 3428  conda activate jupyterlab_dev
+ 3429  jupyter lab
+ 3430  conda activate jupyterlab_dev
+ 3431  jupyter lab
+ 3432  conda deactivate
+ 3433  conda activate jupyterlab_dev
+ 3434  jupyter lab
+ 3435  conda deactivate
+ 3436  conda activate jupyterlab_dev
+ 3437  jupyter lab
+ 3438  conda deactivate
+ 3439  conda activate jupyterlab_dev
+ 3440  jupyter lab
+ 3441  conda deactivate
+ 3442  conda activate jupyterlab_dev
+ 3443  jupyter lab
+ 3444  conda deactivate
+ 3445  conda activate jupyterlab_dev
+ 3446  jupyter lab
+ 3447  conda deactivate
+ 3448  conda activate jupyterlab_dev
+ 3449  jupyter lab
+ 3450  conda deactivate
+ 3451  conda activate jupyterlab_dev
+ 3452  jupyter lab
+ 3453  conda deactivate
+ 3454  conda activate jupyterlab_dev
+ 3455  jupyter lab
+ 3456  conda deactivate
+ 3457  conda activate jupyterlab_dev
+ 3458  jupyter lab
+ 3459  conda deactivate
+ 3460  conda activate jupyterlab_dev
+ 3461  jupyter lab
+ 3462  conda deactivate
+ 3463  conda activate jupyterlab_dev
+ 3464  jupyter lab
+ 3465  conda deactivate
+ 3466  conda activate jupyterlab_dev
+ 3467  jupyter lab
+ 3468  conda deactivate
+ 3469  conda activate jupyterlab_dev
+ 3470  jupyter lab
+ 3471  conda deactivate
+ 3472  conda activate jupyterlab_dev
+ 3473  jupyter lab
+ 3474  conda deactivate
+ 3475  conda activate jupyterlab_dev
+ 3476  jupyter lab
+ 3477  conda deactivate
+ 3478  conda activate jupyterlab_dev
+ 3479  jupyter lab
+ 3480  conda deactivate
+ 3481  conda activate jupyterlab_dev
+ 3482  jupyter lab
+ 3483  git status
+ 3484  git add .
+ 3485  git add *
+ 3486  git commit -m 'challenge 4 initial progress'
+ 3487  git push
+ 3488  conda deactivate
+ 3489  conda activate jupyterlab_dev
+ 3490  jupyter lab
+ 3491  conda activate jupyterlab_dev
+ 3492  jupyter lab
+ 3493  conda deactivate
+ 3494  conda activate jupyterlab_dev
+ 3495  jupyter lab
+ 3496  conda deactivate
+ 3497  conda activate jupyterlab_dev
+ 3498  jupyter lab
+ 3499  conda activate jupyterlab_dev
+ 3500  jupyter lab
+ 3501  conda deactivate
+ 3502  conda activate jupyterlab_dev
+ 3503  jupyter lab
+ 3504  conda deactivate
+ 3505  conda activate jupyterlab_dev
+ 3506  jupyter lab
+ 3507  conda deactivate
+ 3508  conda activate jupyterlab_dev
+ 3509  jupyter lab
+ 3510  conda deactivate
+ 3511  conda activate jupyterlab_dev
+ 3512  jupyter lab
+ 3513  conda deactivate
+ 3514  conda activate jupyterlab_dev
+ 3515  jupyter lab
+ 3516  conda deactivate
+ 3517  conda activate jupyterlab_dev
+ 3518  jupyter lab
+ 3519  conda activate jupyterlab_dev
+ 3520  jupyter lab
+ 3521  conda deactivate
+ 3522  conda activate jupyterlab_dev
+ 3523  jupyter lab
+ 3524  conda deactivate
+ 3525  conda activate jupyterlab_dev
+ 3526  jupyter lab
+ 3527  conda deactivate
+ 3528  conda activate jupyterlab_dev
+ 3529  jupyter lab
+ 3530  conda deactivate
+ 3531  conda activate jupyterlab_dev
+ 3532  jupyter lab
+ 3533  conda deactivate
+ 3534  git status
+ 3535  git add .
+ 3536  git add *
+ 3537  git commit -m 'initial day challenge4'
+ 3538  git push
+ 3539  git pull
+ 3540  git push
+ 3541  git config pull.rebase false  # merge
+ 3542  git push
+ 3543  git pull
+ 3544  git config pull.ff only       # fast-forward only
+ 3545  git add .
+ 3546  git add *
+ 3547  git commit -m 'update challenge4'
+ 3548  git push
+ 3549  conda deactivate
+ 3550  conda activate jupyterlab_dev
+ 3551  jupyter lab
+ 3552  conda activate jupyterlab_dev
+ 3553  jupyter lab
+ 3554  conda deactivate
+ 3555  conda activate jupyterlab_dev
+ 3556  jupyter lab
+ 3557  conda deactivate
+ 3558  conda activate jupyterlab_dev
+ 3559  jupyter lab
+ 3560  conda deactivate
+ 3561  conda activate jupyterlab_dev
+ 3562  jupyter lab
+ 3563  conda deactivate
+ 3564  conda activate jupyterlab_dev
+ 3565  jupyter lab
+ 3566  conda deactivate
+ 3567  conda activate jupyterlab_dev
+ 3568  jupyter lab
+ 3569  conda deactivate
+ 3570  conda activate jupyterlab_dev
+ 3571  jupyter lab
+ 3572  conda deactivate
+ 3573  conda activate jupyterlab_dev
+ 3574  jupyter lab
+ 3575  conda deactivate
+ 3576  conda activate jupyterlab_dev
+ 3577  jupyter lab
+ 3578  conda deactivate
+ 3579  conda activate jupyterlab_dev
+ 3580  jupyter lab
+ 3581  conda deactivate
+ 3582  conda activate jupyterlab_dev
+ 3583  jupyter lab
+ 3584  conda deactivate
+ 3585  conda activate jupyterlab_dev
+ 3586  jupyter lab
+ 3587  conda deactivate
+ 3588  conda activate jupyterlab_dev
+ 3589  jupyter lab
+ 3590  conda deactivate
+ 3591  git add .
+ 3592  git add *
+ 3593  git commit -m 'challenge 4 v1.0'
+ 3594  git push
+ 3595  conda activate jupyterlab_dev
+ 3596  jupyter lab
+ 3597  conda activate jupyterlab_dev
+ 3598  jupyter lab
+ 3599  conda deactivate
+ 3600  conda activate jupyterlab_dev
+ 3601  jupyter lab
+ 3602  conda deactivate
+ 3603  conda activate jupyterlab_dev
+ 3604  jupyter lab
+ 3605  conda deactivate
+ 3606  conda activate jupyterlab_dev
+ 3607  jupyter lab
+ 3608  conda deactivate
+ 3609  conda activate jupyterlab_dev
+ 3610  jupyter lab
+ 3611  conda deactivate
+ 3612  git status
+ 3613  git add .
+ 3614  git add *
+ 3615  git commit -m 'Challenge 4 working version and README v1.1'
+ 3616  git push
+ 3617  conda list requests
+ 3618  conda list json
+ 3619  conda upgrade requests
+ 3620  conda list requests
+ 3621  conda upgrade json
+ 3622  conda update json
+ 3623  brew upgrade json
+ 3624  npm-check-updates
+ 3625  conda
+ 3626  npm-check-updates
+ 3627  npm i -g npm-check-updates
+ 3628  ncu -u
+ 3629  pip install python-dotenv
+ 3630  conda create -n trade_jupyterlab_dev python=3.7 anaconda
+ 3631  conda activate trade_jupyterlab_dev 
+ 3632  conda install scikit-learn-intelex
+ 3633  python -m pip install --upgrade pip
+ 3634  pip install —upgrade Jupyterlab
+ 3635  pip install --upgrade Jupyterlab
+ 3636  pip3 install fire
+ 3637  pip3 install questionary
+ 3638  pip install python-dotenv
+ 3639  pip3 install python-dotenv
+ 3640  pip3 install alpaca-trade-api
+ 3641  pip list | grep -E "python-dotenv|alpaca-trade-api"
+ 3642  pip3 install jupyterlab_tabnine
+ 3643  pip list | grep -E 'python-dotenv|alpaca-trade-api'
+ 3644  conda list python-dotenv
+ 3645  conda list alpaca-trade-api
+ 3646  conda info --envs
+ 3647  conda deactivate
+ 3648  conda info --envs
+ 3649  conda deactivate
+ 3650  cd Desktop
+ 3651  conda activate trade_jupyterlab_dev 
+ 3652  jupyter lab
+ 3653  conda deactivate
+ 3654  git status
+ 3655  git pull
+ 3656  git status
+ 3657  cd Desktop
+ 3658  git clone git@columbia.bootcampcontent.com:columbia-bootcamp/CU-VIRT-FIN-PT-08-2022-U-B.git
+ 3659  git status
+ 3660  cd Desktop
+ 3661  conda activate trade_jupyterlab_dev 
+ 3662  jupyter lab
+ 3663  conda deactivate
+ 3664  cd Desktop
+ 3665  ls
+ 3666  conda activate trade_jupyterlab_dev 
+ 3667  jupyter lab
+ 3668  jupyter lab --ContentsManager.allow_hidden=True\n
+ 3669  conda deactivate
+ 3670  conda install scikit-learn-intelex
+ 3671  cd ~
+ 3672  conda install scikit-learn-intelex
+ 3673  pip3 install python-dotenv
+ 3674  pip3 install alpaca-trade-api\n
+ 3675  cd Desktop
+ 3676  conda activate trade_jupyterlab_dev 
+ 3677  pip3 install python-dotenv
+ 3678  jupyter lab --ContentsManager.allow_hidden=True\n
+ 3679  conda deactivate
+ 3680  conda activate trade_jupyterlab_dev 
+ 3681  jupyter lab --ContentsManager.allow_hidden=True\n
+ 3682  conda activate trade_jupyterlab_dev 
+ 3683  jupyter lab --ContentsManager.allow_hidden=True\n
+ 3684  conda deactivate
+ 3685  pip install python-dotenv
+ 3686  conda activate trade_jupyterlab_dev 
+ 3687  pip install python-dotenv
+ 3688  jupyter lab --ContentsManager.allow_hidden=True\n
+ 3689  conda deactivate
+ 3690  conda activate trade_jupyterlab_dev 
+ 3691  jupyter lab --ContentsManager.allow_hidden=True\n
+ 3692  pip install python-dotenv
+ 3693  conda deactivate
+ 3694  clear
+ 3695  pip install python-dotenv
+ 3696  conda activate trade_jupyterlab_dev 
+ 3697  pip install python-dotenv
+ 3698  jupyter lab --ContentsManager.allow_hidden=True\n
+ 3699  pip uninstall tabnine
+ 3700  conda deactivate
+ 3701  pip uninstall tabnine
+ 3702  pip3 install jupyter-tabnine
+ 3703  jupyter nbextension uninstall --py jupyter_tabnine
+ 3704  pip3 uninstall jupyter-tabnine
+ 3705  conda activate trade_jupyterlab_dev 
+ 3706  pip3 install jupyter-tabnine
+ 3707  jupyter nbextension uninstall --py jupyter_tabnine
+ 3708  pip3 uninstall jupyter-tabnine
+ 3709  jupyter lab --ContentsManager.allow_hidden=True\n
+ 3710  conda deactivate
+ 3711  conda remove --name trade_jupyterlab_dev --all\n
+ 3712  pip3 uninstall jupyter-tabnine
+ 3713  jupyter nbextension uninstall --py jupyter_tabnine
+ 3714  conda create -n trade_jupyterlab_dev python=3.7 anaconda\n
+ 3715  conda activate trade_jupyterlab_dev 
+ 3716  conda install scikit-learn-intelex
+ 3717  python -m pip install --upgrade pip
+ 3718  pip install --upgrade Jupyterlab
+ 3719  pip install python-dotenv\n
+ 3720  pip install alpaca-trade-api\n
+ 3721  jupyter lab --ContentsManager.allow_hidden=True\n
+ 3722  jupyter lab --ContentsManager.allow_hidden=Tru\n
+ 3723  conda deactivate
+ 3724  conda activate trade_jupyterlab_dev 
+ 3725  jupyter lab --ContentsManager.allow_hidden=True\n
+ 3726  conda deactivate
+ 3727  git status
+ 3728  git pull
+ 3729  conda activate trade_jupyterlab_dev 
+ 3730  jupyter lab --ContentsManager.allow_hidden=True\n
+ 3731  conda deactivate
+ 3732  conda activate trade_jupyterlab_dev 
+ 3733  jupyter lab --ContentsManager.allow_hidden=True\n
+ 3734  conda deactivate
+ 3735  pip install python-dotenv
+ 3736  conda activate trade_jupyterlab_dev 
+ 3737  jupyter lab --ContentsManager.allow_hidden=True\n
+ 3738  pip install python-dotenv
+ 3739  jupyter lab
+ 3740  conda deactivate
+ 3741  cd ~
+ 3742  conda info --envs
+ 3743  conda remove --name dev --all\n
+ 3744  conda info --envs
+ 3745  conda remove --name jupyterlab_dev --all\n
+ 3746  conda info --envs
+ 3747  conda remove --name qualify_dev --all\n
+ 3748  conda info --envs
+ 3749  conda remove --name trade_jupyterlab_dev --all\n
+ 3750  conda create -n trade_jupyterlab_dev python=3.7 anaconda\n
+ 3751  conda activate trade_jupyterlab_dev 
+ 3752  python -m pip install --upgrade pip\n
+ 3753  pip install --upgrade Jupyterlab\n
+ 3754  pip install python-dotenv\n
+ 3755  pip install alpaca-trade-api\n
+ 3756  cd ~
+ 3757  conda activate trade_jupyterlab_dev 
+ 3758  conda list python-dotenv
+ 3759  conda list alpaca-trade-ap
+ 3760  conda list python-dotenv
+ 3761  cd Desktop
+ 3762  ls
+ 3763  cd 04-Quantative-Analysis-with-Pandas\ copy
+ 3764  jupyter lab --ContentsManager.allow_hidden=True\n
+ 3765  conda deactivate\n
+ 3766  conda deactivate
+ 3767  git status
+ 3768  git pull
+ 3769  conda activate trade_jupyterlab_dev 
+ 3770  jupyter lab --ContentsManager.allow_hidden=True\n
+ 3771  conda deactivate
+ 3772  git status
+ 3773  conda activate trade_jupyterlab_dev 
+ 3774  jupyter lab --ContentsManager.allow_hidden=True\n
+ 3775  conda deactivate
+ 3776  conda activate trade_jupyterlab_dev 
+ 3777  jupyter lab
+ 3778  conda deactivate
+ 3779  conda activate trade_jupyterlab_dev 
+ 3780  jupyter lab
+ 3781  conda deactivate
+ 3782  conda activate trade_jupyterlab_dev 
+ 3783  jupyter lab
+ 3784  conda deactivate
+ 3785  conda activate trade_jupyterlab_dev 
+ 3786  jupyter lab
+ 3787  conda deactivate
+ 3788  git status
+ 3789  git add .
+ 3790  git add *
+ 3791  git commit -m 'proofreading'
+ 3792  git push
+ 3793  conda activate trade_jupyterlab_dev 
+ 3794  jupyter lab
+ 3795  git status
+ 3796  git add .
+ 3797  git add *
+ 3798  git commit -m 'Challenge 4 working version and README rich content additions v2.0'
+ 3799  git push
+ 3800  jupyter lab
+ 3801  git add .
+ 3802  git add *
+ 3803  git commit -m 'Challenge 4 final v2.1'
+ 3804  git push
+ 3805  jupyter lab
+ 3806  conda activate trade_jupyterlab_dev 
